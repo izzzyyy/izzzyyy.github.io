@@ -1,0 +1,16 @@
+#box{
+    background: white;
+    width:500px;
+    margin:100px auto;
+    padding:50px;
+    }
+
+body{
+    background: #f8EFBA
+    }
+#image{
+    float:right;
+    width:130px;
+     height:130px;
+    border:5px solid black;
+}
